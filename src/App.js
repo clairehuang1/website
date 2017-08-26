@@ -159,7 +159,7 @@ class App extends Component {
       <div className="row">
       <div className="projitems col-med-7 col-sm-7 col-xs-12">
         <div className="colleft" >
-        <h1> I'm Claire :) </h1>
+        <div className="h1wrap"> I'm Claire :) </div>
         <p className="projparagraphs">
           I am a rising senior at the University of Pennsylvania, where I am pursuing a BA
           in Cognitive Science and a minor in Computer and Information Systems.
@@ -203,7 +203,7 @@ class App extends Component {
       <div className="row">
       <div className="projitems col-med-7 col-sm-6">
         <div className="colleft" >
-        <h1> PORT </h1>
+        <div className="h1wrap"> PORT </div>
         <p className="projparagraphs">
           My best friend and I started working on a project that we believed would be useful
           to many of our fellow classmates: a web application that would allow users to share their online shopping carts
@@ -221,7 +221,7 @@ class App extends Component {
       <div className="row">
       <div className="projitems col-med-7 col-sm-6">
         <div className="colleft" >
-        <h1> WIDGET MAKER </h1>
+        <div className="h1wrap"> WIDGET MAKER </div>
         <p className="projparagraphs">
           This application was built for non-technical users. Targeting restaurant owners managing their own websites,
           Widget Maker allows users to inject a banner or popup and customize it simply by filling out a form. <br/>
@@ -255,7 +255,7 @@ class App extends Component {
         <div className="row">
         <div className="projitems col-xs-12">
           <div className="colleft" >
-          <h1> visa inc. </h1>
+          <div className="h1wrap"> visa inc. </div>
           <p className="projparagraphs">
             ROLE: Lead Frontend Developer <br/>
             TECHNOLOGIES USED: MongoDB, Express.js, AngularJS, Node.js, Cytoscape.js
@@ -268,7 +268,7 @@ class App extends Component {
         <div className="row">
         <div className="projitems col-xs-12">
           <div className="colleft" >
-          <h1> mHealth Service </h1>
+          <div className="h1wrap"> mHealth Service </div>
           <p className="projparagraphs">
             ROLE:Web Developer<br/>
             TECHNOLOGIES USED: ReactJS, AWS, Node.js
@@ -309,7 +309,7 @@ class App extends Component {
         <div className="row">
         <div className="projitems col-xs-12">
           <div className="colleft" >
-          <h1>Things I am particularly interested in:</h1>
+          <div className="h1wrap">Things I am particularly interested in:</div>
           <p className="projparagraphs">
             UI/UX, web development, software performance optimization, language acquisition,
             photography, videography, dancing, HIIT, cooking
@@ -322,7 +322,7 @@ class App extends Component {
         <div className="row">
         <div className="projitems col-xs-12">
           <div className="colleft" >
-          <h1> Want to chat? </h1>
+          <div className="h1wrap"> Want to chat? </div>
           <p className="projparagraphs">
 
             huangcl@sas.upenn.edu

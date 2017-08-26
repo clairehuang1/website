@@ -139,8 +139,8 @@
   flex-direction: column;
   justify-content: center;
   float:left;
-
 }
+
 .positioning{
   font-size: 20px;
   display:flex;
@@ -161,18 +161,6 @@
 
 }
 
-.projtitle{
-  padding-top: 5%;
-  word-wrap:break-word;
-  /*height:100%;*/
-  font-size: 50px;
-  margin-bottom: 10px;
-  display:flex;
-  align-content: flex-start;
-  white-space: pre-line;
-
-
-}
 .button{
   width:90px;
   margin:10px;
@@ -209,6 +197,19 @@
 @media (max-width: 480px ){
   .projpic{
     width: 200px;
+  }
+  .h1wrap{
+    font-size: 25px;
+    white-space: pre-line;
+    font-weight: 500;
+  }
+  .projtitle{
+    padding-top: 5%;
+    font-size: 30px;
+    margin-bottom: 10px;
+    display:flex;
+    align-content: flex-start;
+    white-space: pre-line;
   }
   p {
     text-transform: none;
@@ -252,6 +253,11 @@
     padding:10px;
 
   }
+  .h1wrap{
+    font-size: 36px;
+    white-space: pre-line;
+    font-weight: 500;
+  }
   .firstbody{
     height:100vh;
     min-height: 800px;
@@ -269,6 +275,15 @@
     position:relative;
     left: 150px;
 
+  }
+  .projtitle{
+    padding-top: 5%;
+    word-wrap:break-word;
+    font-size: 50px;
+    margin-bottom: 10px;
+    display:flex;
+    align-content: flex-start;
+    white-space: pre-line;
   }
 
 
@@ -433,10 +448,7 @@ background-color: #f5f7fb;
 	z-index: -9000;
 
 }
-h1{
-  font-size: 25px;
-  white-space: pre-line;
-}
+
 h2{
   font-size: 15px;
   font-weight: bold;
