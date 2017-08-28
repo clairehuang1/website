@@ -70,22 +70,22 @@ class App extends Component {
       fourthBulbElem = this.state.contactImage;
     }
     var firstStyle={
-        maxWidth:'75%',
+        maxWidth:'65%',
         top:'0px',
         overflow:'hidden'
       }
       var secondStyle={
-        maxWidth:'75%',
+        maxWidth:'65%',
         top:'0px',
         overflow:'hidden'
       }
       var thirdStyle={
-        maxWidth:'75%',
+        maxWidth:'65%',
         top:'0px',
         overflow:'hidden'
       }
       var fourthStyle={
-        maxWidth:'75%',
+        maxWidth:'65%',
         top:'0px',
         overflow:'hidden'
       }
@@ -136,9 +136,7 @@ class App extends Component {
                   Claire Huang
                 <div className="subtitle">student. developer.</div>
               </div>
-              <div>
-                *Hover over the lights to turn them on!
-              </div>
+
 
             </div>
 

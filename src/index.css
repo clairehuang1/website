@@ -11,7 +11,7 @@
 .homepage-components{
   display:flex;
   flex-direction: column;
-  margin-bottom: 50px;
+  margin-bottom: 40px;
   padding-right: 40%;
   text-align:left;
   white-space: nowrap;
@@ -263,8 +263,8 @@
     font-weight: 500;
   }
   .firstbody{
-    height:100vh;
-    min-height: 800px;
+    min-height:100vh;
+
   }
   .container{
     display: inline-block;
