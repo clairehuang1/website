@@ -249,7 +249,7 @@ class App extends Component {
           <div className="h1wrap"> visa inc. </div>
           <p className="projparagraphs">
             ROLE: Lead Frontend Developer <br/>
-            TECHNOLOGIES USED: MongoDB, Express.js, AngularJS, Node.js, Cytoscape.js
+            TECHNOLOGIES USED: MongoDB, ExpressJS, AngularJS, NodeJS, CytoscapeJS
 
           </p>
           </div>
@@ -262,7 +262,7 @@ class App extends Component {
           <div className="h1wrap"> mHealth Service </div>
           <p className="projparagraphs">
             ROLE:Web Developer<br/>
-            TECHNOLOGIES USED: ReactJS, AWS, Node.js
+            TECHNOLOGIES USED: ReactJS, AWS, NodeJS
 
           </p>
           </div>
