@@ -102,9 +102,6 @@ class App extends Component {
 
                   <img style={firstStyle} onMouseOver={this.mouseOverAbout} onMouseOut={this.mouseStop} src={firstBulbElem}></img>
                 </Link>
-                {/* <NavLink to="/about" activeClassName="img-responsive active" spy={true} smooth={true} duration={500}>
-                  <img style={firstStyle} onMouseOver={this.mouseOverAbout} onMouseOut={this.mouseStop} src={firstBulbElem}></img>
-                </NavLink> */}
               </div>
 
               <div className="secondBulbWrap bulbwrapper">
@@ -112,18 +109,14 @@ class App extends Component {
                   <img style={secondStyle} onMouseOver={this.mouseOverProjects} onMouseOut={this.mouseStop} src={secondBulbElem}></img>
 
                 </Link>
-                {/* <NavLink to="/projects" activeClassName="img-responsive active" spy={true} smooth={true} duration={500}>
-                // <img style={secondStyle} onMouseOver={this.mouseOverProjects} onMouseOut={this.mouseStop} src={secondBulbElem}></img>
-                </NavLink> */}
+
               </div>
 
               <div className="thirdBulbWrap bulbwrapper">
                 <Link className="nav-list" to="resume">
                   <img style={thirdStyle} onMouseOver={this.mouseOverServices} onMouseOut={this.mouseStop} src={thirdBulbElem}></img>
                 </Link>
-                {/* <NavLink to="/services" activeClassName="img-responsive active" spy={true} smooth={true} duration={500}>
-                <img style={thirdStyle} onMouseOver={this.mouseOverServices} onMouseOut={this.mouseStop} src={thirdBulbElem}></img>
-                </NavLink> */}
+
               </div>
 
               <div className="fourthBulbWrap ">
@@ -131,9 +124,7 @@ class App extends Component {
                   <img style={fourthStyle} onMouseOver={this.mouseOverContact} onMouseOut={this.mouseStop} src={fourthBulbElem}></img>
 
                 </Link>
-                {/* <NavLink to="/contact" activeClassName="img-responsive active" spy={true} smooth={true} duration={500}>
-                <img style={fourthStyle} onMouseOver={this.mouseOverContact} onMouseOut={this.mouseStop} src={fourthBulbElem}></img>
-              </NavLink> */}
+
               </div>
 
             </div>
@@ -312,7 +303,7 @@ class App extends Component {
           <div className="h1wrap">Things I am particularly interested in:</div>
           <p className="projparagraphs">
             UI/UX, web development, software performance optimization, language acquisition,
-            photography, videography, dancing, HIIT, cooking
+            photography, videography, dancing, HIIT, kitchen experimentation
 
           </p>
           </div>
