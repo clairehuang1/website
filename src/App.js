@@ -127,15 +127,22 @@ class App extends Component {
 
               </div>
 
+
             </div>
+
 
             <div className="homepage-components">
               <div className="titlewrap" >
                   Claire Huang
                 <div className="subtitle">student. developer.</div>
               </div>
+              <div>
+                *Hover over the lights to turn them on!
+              </div>
 
             </div>
+
+
 
 </div>
 </div>

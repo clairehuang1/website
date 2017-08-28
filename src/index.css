@@ -11,7 +11,7 @@
 .homepage-components{
   display:flex;
   flex-direction: column;
-  margin-bottom: 40px;
+  margin-bottom: 50px;
   padding-right: 40%;
   text-align:left;
   white-space: nowrap;
@@ -22,6 +22,10 @@
 }
 .image-prof{
   height: 500px;
+}
+.instructions{
+  display:flex;
+  justify-content: center;
 }
 .react-layout-components--box {
   display: -webkit-box;
