@@ -157,7 +157,7 @@ class App extends Component {
         <div className="colleft" >
         <div className="h1wrap"> I'm Claire :) </div>
         <p className="projparagraphs">
-          I am a rising senior at the University of Pennsylvania, where I am pursuing a BA
+          I am a senior at the University of Pennsylvania, where I am pursuing a BA
           in Cognitive Science and a minor in Computer and Information Systems.
           During my second semester of my junior year, I attended a coding bootcamp (Horizons)
           to acquire web development skills. It was such an amazing feeling to be able to devote time to doing what I love:
