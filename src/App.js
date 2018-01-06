@@ -278,10 +278,10 @@ class App extends Component {
           <button type="submit" id="submit">LinkedIn</button>
 
         </form>
-        <form className="buttonborder" action={resume} method="get" target="_blank">
+        {/* <form className="buttonborder" action={resume} method="get" target="_blank">
         <button type="submit" id="submit" >Resume</button>
 
-      </form>
+      </form> */}
 
 
 
